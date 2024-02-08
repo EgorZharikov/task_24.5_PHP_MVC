@@ -9,7 +9,7 @@
                     <div class="mb-3">
                         <div class="input-group">
                             <input type="file" class="form-control" name="files[]" accept=".jpg,.png" id="inputFile" aria-describedby="inputFileAddon" aria-label="Upload">
-                            <button class="btn btn-outline-secondary" type="submit" id="inputFileAddon">Приминить стиль</button>
+                            <button class="btn btn-outline-secondary" type="submit" id="inputFileAddon">Применить стиль</button>
                         </div>
                         <div class="form-check form-check-inline mt-3">
                             <input class="form-check-input" type="radio" name="imgStyle" id="inlineRadio1" value="NEGATE" checked>
